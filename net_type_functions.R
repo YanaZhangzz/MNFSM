@@ -1,3 +1,4 @@
+
 getPowerLawW<-function(N, alpha, normalize = T)           
 {
   Nfollowers = rpldis(N, 1, alpha)
