@@ -1,3 +1,4 @@
+
 # MNFSM Statistical Analysis
 
 This repository provides a collection of R scripts for statistical modeling, focusing on **MNFSM** methodology. It includes core functions for parameter estimation and predictive modeling.
