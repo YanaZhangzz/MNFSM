@@ -1,4 +1,3 @@
-
 #### This file includes functions which calculate the newton-raphson algorithm of LSE
 
 
